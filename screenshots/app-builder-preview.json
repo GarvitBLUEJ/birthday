@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Happy 17th, Pragya!",
+      "hasCanvas": true,
+      "bodyTextLen": 966,
+      "bodyTextHash": "5f6cd22f093760e901a488547a0f8c77facf29e17bcc3ea905571666876d58b7",
+      "bodyTextPrefix": "17 saal ki ho gayi Happy Birthday Pragya! apni sabse chaotic, sa",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Happy 17th, Pragya!",
+      "hasCanvas": true,
+      "bodyTextLen": 957,
+      "bodyTextHash": "ea19c36b2f480e2144d452e95961a2e19d88eaba9748822d9561aee3c744f2fe",
+      "bodyTextPrefix": "17 saal ki ho gayi Happy Birthday Pragya! apni sabse chaotic, sa",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
